@@ -1,0 +1,27 @@
+header{
+	margin-top: 5px;
+	background-color: #5570B9;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+section{
+	background-color: #FFFFFF;
+}
+footer{
+	background-color: #404040;
+	opacity: 50%;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.nav-link{
+	color: #FFFFFF;
+}
+.navbar{
+	color: #FFFFFF;
+}
+.co-6 p, .model{
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #5570B9;
+
+}
